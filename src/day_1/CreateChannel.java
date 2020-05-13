@@ -11,7 +11,13 @@ public class CreateChannel {
         }else{
             System.out.println("not equual");
         }
-
-
+        
+        String s = "a";
+        if(s.contains("a")
+           System.out.println("contains");
+        else
+           System.out.println("doesnt contain");
+           
+           
     }
 }
