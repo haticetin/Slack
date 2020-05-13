@@ -13,11 +13,11 @@ public class CreateChannel {
         }
         
         String s = "a";
-        if(s.contains("a")
+        if(s.contains("a"))
            System.out.println("contains");
         else
            System.out.println("doesnt contain");
-           
-           
+
+
     }
 }
